@@ -1,34 +1,17 @@
-## Hey 👋, This is Ruan
+# Hello, I'm Byxss! 👋
 
-[![Mail Badge](https://img.shields.io/badge/-byxss@outlook.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:byxss@outlook.com)](mailto:byxss@outlook.com) [![Github Badge](https://img.shields.io/badge/-ryyyc-grey?style=flat&logo=github&logoColor=white&link=https://github.com/byxsss/)](https://www.github.com/byxsss/)
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=byxss alt=ryyyc /> </p>
+## About Me
+- 🔭 我目前在探索技术的无限可能，专注于后端开发。
+- 🌱 对PHP和Python特别感兴趣，并持续深入学习中。
+- 👯 希望能与志同道合的朋友一起合作做些有趣的项目！
+- 💬 有任何问题或者想交流的，欢迎随时联系我。
 
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ryyyc&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/ryyyc">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryyyc&layout=compact" />
-</a>
+## Skills
+- **编程语言**: PHP, Python
+- **工具和技术**: Git, Docker等（请根据实际情况填写）
 
-Languages and Tools:
+## Contact
+- 📫 如何联系我：Byxss@outlook.com
+- 🌐 访问我的博客：[https://www.eduy.top/](https://www.eduy.top/)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-
-
-<!--
-**Ryyyc/ryyyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Byxsss&show_icons=true&theme=dark)
