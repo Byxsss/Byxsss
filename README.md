@@ -12,6 +12,6 @@
 
 ## Contact
 - 📫 如何联系我：Byxss@outlook.com
-- 🌐 访问我的博客：[https://www.eduy.top/](https://www.eduy.top/)
+- 🌐 访问我的博客：[https://www.ikys.xyz/](https://www.ikys.xyz/)
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Byxsss&show_icons=true&theme=dark)
