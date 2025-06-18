@@ -22,7 +22,7 @@
     <a href="https://www.ikys.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://www.ikys.xyz/"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=acanyo&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+    <img src="https://komarev.com/ghpvc/?username=Byxss&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
 
   <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
