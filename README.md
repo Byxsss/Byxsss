@@ -19,8 +19,8 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="https://www.lik.cc/"><img src="https://www.ikys.xyz/-博客-8c36db" /></a>&emsp;
-    <a href="https://www.lik.cc/authors/30819792"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
+    <a href="https://www.ikys.xyz/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
+    <a href="https://www.ikys.xyz/"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <!-- visitor -->
     <img src="https://komarev.com/ghpvc/?username=acanyo&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
   </div>
@@ -44,7 +44,7 @@
 
 <img align="right" width="88" src="https://camo.githubusercontent.com/858517fcac8f2bb9052781e271a16a59853ccd1b92ccf4f0344cd03d82f19b4c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f73756e3032323553554e2f73756e3032323553554e2f6173736574732f696d616765732f617374726f6e6175742e706e67" />
 
-<p>&emsp;&emsp;嗨，你好，我是Handsome。热爱编程、电影、音乐、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是Byxsss。热爱编程、电影、音乐、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
